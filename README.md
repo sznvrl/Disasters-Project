@@ -6,7 +6,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Detail Information for Running] (#running)
+4. [Detail Information for Running](#running)
 4. [Results](#results)
 
 ## Installation <a name="installation"></a>
@@ -19,6 +19,11 @@ In this project,  messages were analyzed. Our goal is to assign disaster message
 
 
 ## File Descriptions <a name="files"></a>
+
+
+
+
+## Detail Information for Running <a name="running"></a>
 
 
 
