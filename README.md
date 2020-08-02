@@ -31,9 +31,10 @@ In this project,  messages were analyzed. Our goal is to assign disaster message
 
 ## Detail Information for Running <a name="running"></a>
 
-* **Step1**: Check direction for all processes. Firstly run process_data.py and give inputs (disaster_categories.csv, disaster_messages.csv and write cleaned data in DisasterResponse database. In this study, process_data.py ,disaster_messages.csv and disaster_categories.csv files in "data" folder
-**cd data
-**python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
+* **Step1**: Check direction for all processes. Firstly run process_data.py and give inputs (disaster_categories.csv, disaster_messages.csv and write cleaned data in DisasterResponse database. In this study, process_data.py ,disaster_messages.csv and disaster_categories.csv files in "data" folder.
+
+**cd data**
+**python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db**
 
 * **Step2**: 
 
