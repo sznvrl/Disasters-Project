@@ -45,8 +45,10 @@ In this project,  messages were analyzed. Our goal is to assign disaster message
 
        cd app
        python run.py
+       
+* **Step4**: Go link: http://0.0.0.0:3001/
 
 
 
 ## Results<a name="results"></a>
-According to result, the sales prices are graphed.
+According to result, web app started. Messages are labelled, classified. Calculated percentage of messages according to categories and visualized. 
