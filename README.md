@@ -19,13 +19,13 @@ In this project,  messages were analyzed. Our goal is to assign disaster message
 
 
 ## File Descriptions <a name="files"></a>
-disaster_categories.csv: CSV file; categories dataset for all messages
-disaster_messages.csv: CSV file; sample messages dataset
-ETL Pipeline Preparation.ipynb: cleaning dataset; merge two dataset (messages and categories), check duplicates etc. 
-ML Pipeline Preparation.ipynb: apply ML models for classifying messages and calculate evaluation metrics 
-process_data.py: give data as a input, cleaned data and write to SQLite
-train_classifier.py: takes cleaned data from SQLite and apply ML models for classifying messages, print ML scores
-run.py: visualize results and create app
+* **disaster_categories.csv**: CSV file; categories dataset for all messages
+* **disaster_messages.csv**: CSV file; sample messages dataset
+* **ETL Pipeline Preparation.ipynb**: cleaning dataset; merge two dataset (messages and categories), check duplicates etc. 
+* **ML Pipeline Preparation.ipynb**: apply ML models for classifying messages and calculate evaluation metrics 
+* **process_data.py**: give data as a input, cleaned data and write to SQLite
+* **train_classifier.py**: takes cleaned data from SQLite and apply ML models for classifying messages, print ML scores
+* **run.py**: visualize results and create app
 
 
 
